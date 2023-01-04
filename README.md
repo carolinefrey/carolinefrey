@@ -1,11 +1,11 @@
-### Caroline Frey
+## Caroline Frey
 
-## About
+### About
 * I have a bachelor's degree in Computer Science
 * I started teaching myself iOS Development in 2022 (April)
 * I was a member of the HankoAcademy Fall 2022 Cohort - a 10-week bootcamp that focuses on developing a foundational understanding of iOS concepts.
 
-# Topics Covered in Bootcamp Include:
+#### Topics Covered in Bootcamp Include:
 * UIKit and programmatic UI
 * Auto Layout
 * UITableView & UICollectionView
@@ -15,7 +15,7 @@
 * Memory Management
 * Persistance
 
-## Currently...
+### Currently...
 * I am working on developing JobApp Tracker - an app that allows users to keep track of and manage job applications.
     * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
 * I am beginning to search for my first iOS Dev job
