@@ -5,15 +5,19 @@
 * I started teaching myself iOS Development in 2022 (April)
 * I was a member of the HankoAcademy Fall 2022 Cohort - a 10-week bootcamp that focuses on developing a foundational understanding of iOS concepts.
 
-#### Topics Covered in Bootcamp Include:
-* UIKit and programmatic UI
-* Auto Layout
-* UITableView & UICollectionView
-* Protocol Oriented Programming
-* Delegation Pattern
-* iOS Design Patterns (MVC, MVVM)
-* Memory Management
-* Persistance
+    #### Topics Covered in Bootcamp Include:
+    * UIKit and programmatic UI
+    * Auto Layout
+    * UITableView & UICollectionView
+    * Protocol Oriented Programming
+    * Delegation Pattern
+    * iOS Design Patterns (MVC, MVVM)
+    * Memory Management
+    * Persistance
+    
+### Projects
+* Werdd - users can search word definitions, save favorite words and generate random words using an API.
+    * [Werdd Repo](https://github.com/carolinefrey/Werdd)
 
 ### Currently...
 * I am working on developing JobApp Tracker - an app that allows users to keep track of and manage job applications.
