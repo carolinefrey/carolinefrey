@@ -16,7 +16,7 @@
     * Persistance
     
 ### Projects
-* Werdd - users can search word definitions, save favorite words and generate random words using an API.
+* Werdd - Using a "words" API, users can search word definitions, save their favorite words and generate random words to explore their definitions.
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
 
 ### Currently...
