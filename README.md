@@ -20,6 +20,7 @@
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
 * JobApp Tracker - Users can keep track of their job applications.
     * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
+    * JobApp Tracker is available in TestFlight.
 
 ### Currently...
 * I am currently working on developing an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
