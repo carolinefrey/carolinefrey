@@ -23,7 +23,8 @@
     * JobApp Tracker is available in TestFlight.
 
 ### Currently...
-* I am currently working on developing an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
+* I am currently working on HealthDash an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
+    * [HealthDash Repo](https://github.com/carolinefrey/HealthDash)
 * I am beginning to search for my first iOS Dev job
 
 <!--
