@@ -18,10 +18,11 @@
 ### Projects
 * Werdd - Using a "words" API, users can search word definitions, save their favorite words and generate random words to explore their definitions.
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
+* JobApp Tracker - Users can keep track of their job applications.
+    * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
 
 ### Currently...
-* I am working on developing JobApp Tracker - an app that allows users to keep track of and manage job applications.
-    * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
+* I am currently working on developing an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
 * I am beginning to search for my first iOS Dev job
 
 <!--
