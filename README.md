@@ -15,7 +15,8 @@
     * Memory Management
     * Persistance
     
-### Projects
+### Notable Projects
+Note: All projects are built using 100% programmatic UI (no storyboards!)
 * Werdd - Using a "words" API, users can search word definitions, save their favorite words and generate random words to explore their definitions.
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
 * JobApp Tracker - Users can keep track of their job applications.
