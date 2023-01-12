@@ -19,9 +19,12 @@
 Note: All projects are built using 100% programmatic UI (no storyboards!)
 * Werdd - Using a "words" API, users can search word definitions, save their favorite words and generate random words to explore their definitions.
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
+    * Frameworks include UIKit, Core Data, Alamofire
+    * While developing this app I learned how to implement UI programmatically, how to make network requests, how to parse and display JSON, how to implement UITableView and how to persist data using Core Data.
 * JobApp Tracker - Users can keep track of their job applications.
     * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
-    * JobApp Tracker is available in TestFlight.
+    * Frameworks include UIKit and Core Data
+    * While developing this app I learned how to implement delegates and protocols, how to allow for cell reordering in a UICollectionView, how to persist that custom reordering using Core Data and how to filter collection view data.
 
 ### Currently...
 * I am currently working on HealthDash an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
