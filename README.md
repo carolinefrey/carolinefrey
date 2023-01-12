@@ -13,6 +13,7 @@
     * Delegation Pattern
     * iOS Design Patterns (MVC, MVVM)
     * Memory Management
+    * Networking
     * Persistance
     
 ### Notable Projects
