@@ -30,6 +30,7 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
 ### Currently...
 * I am currently working on HealthDash an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
     * [HealthDash Repo](https://github.com/carolinefrey/HealthDash)
+    * Frameworks include UIKit and HealthKit
 * I am beginning to search for my first iOS Dev job
 
 <!--
