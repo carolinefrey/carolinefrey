@@ -23,6 +23,7 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
     * Frameworks include UIKit, Core Data, Alamofire
     * While developing this app I learned how to implement UI programmatically, how to make network requests, how to parse and display JSON, how to implement UITableView and how to persist data using Core Data.
 * JobApp Tracker - Users can keep track of their job applications.
+    * Available in the App Store [here](https://apps.apple.com/us/app/jobapp-tracker/id1661018820)!
     * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
     * Frameworks include UIKit and Core Data
     * While developing this app I learned how to implement delegates and protocols, how to allow for cell reordering in a UICollectionView, how to persist that custom reordering using Core Data and how to filter collection view data.
