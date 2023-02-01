@@ -2,7 +2,7 @@
 
 ### About
 * I have a bachelor's degree in Computer Science
-* I started teaching myself iOS Development in 2022 (April)
+* I started teaching myself iOS Development in 2022
 * I was a member of the HankoAcademy Fall 2022 Cohort - a 10-week bootcamp that focuses on developing a foundational understanding of iOS concepts.
 
     #### Topics Covered in Bootcamp Include:
