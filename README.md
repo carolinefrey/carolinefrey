@@ -30,9 +30,9 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
     * While developing this app I learned how to implement UI programmatically, how to make network requests, how to parse and display JSON, how to implement UITableView and how to persist data using Core Data.
 
 ### Currently...
-* I am currently working on HealthDash an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
+* I am currently working on HealthDash, an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
     * [HealthDash Repo](https://github.com/carolinefrey/HealthDash)
-    * Frameworks include UIKit, HealthKit and WidgetKit
+    * Frameworks include UIKit, HealthKit, SwiftUI and WidgetKit
 * I am beginning to search for my first iOS Dev job
 
 <!--
