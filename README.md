@@ -29,11 +29,10 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
     * Frameworks include UIKit, Core Data, Alamofire
     * While developing this app I learned how to implement UI programmatically, how to make network requests, how to parse and display JSON, how to implement UITableView and how to persist data using Core Data.
 
-### Currently...
-* I am currently working on HealthDash, an app that integrates with HealthKit to display a summary of a user's key metrics for the day (sleep, weight, active energy and steps)
+* HealthDash - Integrates with HealthKit to display a summary of a user's key health metrics for the day (sleep, weight, active energy and steps)
     * [HealthDash Repo](https://github.com/carolinefrey/HealthDash)
     * Frameworks include UIKit, HealthKit, SwiftUI and WidgetKit
-* I am beginning to search for my first iOS Dev job
+    * While developing this app I learned how to integrate with two of Apple's Frameworks: HealthKit and WidgetKit.
 
 <!--
 **carolinefrey/carolinefrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
