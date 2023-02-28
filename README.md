@@ -31,8 +31,8 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
 
 * Health Metric Dash - Integrates with HealthKit to display a summary of a user's key health metrics for the day (sleep, weight, active energy and steps)
     * [Health Metric Dash Repo](https://github.com/carolinefrey/HealthDash)
-    * Frameworks include UIKit, HealthKit, SwiftUI and WidgetKit
-    * While developing this app I learned how to integrate with two of Apple's Frameworks: HealthKit and WidgetKit.
+    * Frameworks include UIKit, HealthKit, SwiftUI, Swift Charts and WidgetKit
+    * While developing this app I learned how to integrate with two of Apple's Frameworks: HealthKit and WidgetKit. I also learned how to embed a SwiftUI view inside of a UICollectionView. This allowed me to build Swift Charts and use them inside of my collection view cells.
 
 <!--
 **carolinefrey/carolinefrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
