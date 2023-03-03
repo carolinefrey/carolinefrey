@@ -33,6 +33,11 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
     * [Health Metric Dash Repo](https://github.com/carolinefrey/HealthDash)
     * Frameworks include UIKit, HealthKit, SwiftUI, Swift Charts and WidgetKit
     * While developing this app I learned how to integrate with two of Apple's Frameworks: HealthKit and WidgetKit. I also learned how to embed a SwiftUI view inside of a UICollectionView. This allowed me to build Swift Charts and use them inside of my collection view cells.
+    
+* WeatherAPI - Integrates with Core Location to display the user's current forecast.
+    * [WeatherAPI Repo](https://github.com/carolinefrey/HealthDash](https://github.com/carolinefrey/WeatherAPI)
+    * Frameworks include UIKit, Core Location
+    * While developing this app I learned how to integrate with Core Location to fetch a user's current location. I also practiced gathering data from an API.
 
 <!--
 **carolinefrey/carolinefrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
