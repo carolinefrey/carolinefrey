@@ -37,7 +37,7 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
 * WeatherAPI - Integrates with Core Location to display the user's current forecast.
     * [WeatherAPI Repo](https://github.com/carolinefrey/WeatherAPI)
     * Frameworks include UIKit, Core Location
-    * While developing this app I learned how to integrate with Core Location to fetch a user's current location. I also practiced gathering data from an API.
+    * While developing this app I learned how to integrate with Core Location to fetch a user's current location. I also practiced fetching data from an API.
 
 <!--
 **carolinefrey/carolinefrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
