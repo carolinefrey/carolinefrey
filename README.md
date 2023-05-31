@@ -22,8 +22,9 @@ Note: All projects are built using 100% programmatic UI (no storyboards!)
     * Available in the App Store [here](https://apps.apple.com/us/app/jobapp-tracker/id1661018820)!
     * [JobApp Tracker Repo](https://github.com/carolinefrey/JobTracker)
     * Frameworks include UIKit and Core Data
-    * While developing this app I learned how to implement delegates and protocols, how to allow for cell reordering in a UICollectionView, how to persist that custom reordering using Core Data and how to filter collection view data.
-    * Refactored to MVVM
+    * While developing this app I learned how to implement delegates and protocols, how to allow for cell reordering in a UICollectionView, how to persist that custom reordering using Core Data and how to filter collection view data. 
+    * I gained experience in beginning a project from scratch and publishing it to the App Store.
+    * I learned how to refactor an existing codebase to MVVM
     
 * Werdd - Using a "words" API, users can search word definitions, save their favorite words and generate random words to explore their definitions.
     * [Werdd Repo](https://github.com/carolinefrey/Werdd)
